@@ -8,14 +8,6 @@ You can then view how close your sending is to your budget.
 If there is any interest in improving this project, kindly submit a pull request with
 proposed changes.
 
-### Demo
-
-YouTube-https://youtu.be/ed4NgkhBOiI
-
-APK Download - 
-
-
-More Projects - https://projectworlds.in
 
 # Screenshots
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584126/9f3b6e3e-0125-11e7-8c0a-27d176dd0c00.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584126/9f3b6e3e-0125-11e7-8c0a-27d176dd0c00.png)
@@ -27,7 +19,7 @@ More Projects - https://projectworlds.in
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23929601/ab0484be-08fd-11e7-9ffa-b003d72605f6.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23929601/ab0484be-08fd-11e7-9ffa-b003d72605f6.png)
 
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584139/f12ae6ca-0125-11e7-855e-aaf44bd36873.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584139/f12ae6ca-0125-11e7-855e-aaf44bd36873.png)
-[<img src="https://cloud.githubusercontent.com/assets/5264535/23584140/f2b7acf8-0125-11e7-8aea-62e49e1e9cf4.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584140/f2b7acf8-0125-11e7-8aea-62e49e1e9cf4.png)
+
 
 # Building
 
@@ -45,3 +37,4 @@ App icons from [The Noun Project](https://thenounproject.com) and
 - [Ticket Bill](https://thenounproject.com/term/ticket-bill/634398/)
 by [naim](https://thenounproject.com/naim.solis/)
 - [Save](https://thenounproject.com/term/save/716011) by [Bernar Novalyi](https://thenounproject.com/bernar.novalyi)
+-[icons] by [FlatUIicons]
